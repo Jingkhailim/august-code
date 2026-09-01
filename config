@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaauhc5mkfhcj7gxovdbutxjtqx3pnk6shvtvislwt43juduqeekbkq
+fingerprint=40:0d:52:ba:77:6a:51:b8:72:37:58:da:48:79:fc:4a
+tenancy=ocid1.tenancy.oc1..aaaaaaaac5numqkdcafs7grxz6jnltky2ws3334w4gl2ro7cade6srwelbqq
+region=us-chicago-1
+key_file=C:\Users\jingkhai\Downloads\august-code\jingkhai.lim@outlook.com-2026-08-20T05_59_20.146Z.pem
